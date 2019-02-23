@@ -1,0 +1,17 @@
+---
+title: "E4540_HW1"
+author: "Guojing Wu, UNI: gw2383"
+date: "2/23/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      warning = F, 
+                      message = F)
+library(RcppCNPy)
+library(tidyverse)
+```
+
+## Problem 1
+
